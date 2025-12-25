@@ -1,62 +1,59 @@
-# 👋 Hi there, I'm [JusArthur](https://github.com/JusArthur)! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# 👋 Hi there, I'm [Justin (Qinglan) Xia](https://github.com/JusArthur)! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D533&width=435&lines=Full+Stack+Developer;Game+Producer;Blogger;Contest+Challenger)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Justin%20Xia&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
 
-## 🏆 Achievements
-- 🚀 **ACM Jiangsu Province Championship** (represented CUMT)
-- ♊ **ENTJ Cowboy**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D533&width=435&lines=Full+Stack+Developer;Game+Producer;Blogger;ENTJ+Cowboy;Winnipeg+Based" alt="Typing SVG" />
+  </a>
+</p>
 
-## 📚 About Me
-- 👀 **Keep in touch!** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinxia30)
-- 🌏 Currently based in **Winnipeg, Canada**
-- 💻 Passionate about coding, game development, and problem-solving
+---
 
-## 🛠️ Tech Stack
-<div align="center">
+### 📚 About Me
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 🌏 **Location:** Based in **Winnipeg, Canada** 🇨🇦
+- 🎓 **Education:** Application Development @ Red River College Polytechnic
+- 🚀 **Background:** Represented CUMT in the **ACM Jiangsu Province Championship**
+- 🛠️ **Current Project:** Co-founder of **Studio Boreas** & creator of **Win Road Test**
+- 🎯 **Goal:** Building seamless full-stack experiences and engaging games.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinxia30)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/JusArthur)
 
-### Database
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-</div>
+### 🛠️ Tech Stack
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JusArthur&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B) |
+| **Mobile/Game** | ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react) ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white) |
+| **Database/Cloud**| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel) |
 
-## 👨‍💻 Weekly Coding Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusArthur&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JusArthur&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
-</div>
+### 📊 Performance Metrics
 
-<!---
-JusArthur/JusArthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JusArthur&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Justin's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusArthur&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JusArthur&theme=radical&border_radius=10" alt="GitHub Streak" width="94%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JusArthur&color=blueviolet&style=flat-square&label=PROFILE+VISITS" alt="Profile Views Counter" />
+</p>
+
+---
+<p align="center">
+"Code is like humor. When you have to explain it, it’s bad." 🤠
+</p>
