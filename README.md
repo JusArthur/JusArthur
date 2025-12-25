@@ -22,7 +22,7 @@
 
 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinxia30)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/JusArthur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://justinxia.netlify.app)
 
 ---
 
@@ -38,15 +38,20 @@
 
 ---
 
-### 📊 Performance Metrics
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JusArthur&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Justin's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusArthur&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="45%" />
-</p>
+  <picture>
+    <source srcset="https://github-readme-stats-one-bice.vercel.app/api?username=JusArthur&show_icons=true&theme=radical&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-one-bice.vercel.app/api?username=JusArthur&show_icons=true&theme=default&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=JusArthur&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Justin's Stats" width="48%" />
+  </picture>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JusArthur&theme=radical&border_radius=10" alt="GitHub Streak" width="94%" />
+  <picture>
+    <source srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JusArthur&layout=compact&theme=radical&hide=html,css" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JusArthur&layout=compact&theme=default&hide=html,css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JusArthur&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="48%" />
+  </picture>
 </p>
 
 <p align="center">
